@@ -1,4 +1,4 @@
-# PHOBOS: DNA DAMAGE RESPONSE IN EARLY BREAST CANCER: A PHASE III COHORT IN THE PHOBOS STUDY (paper under submission phase)
+# PHOBOS: DNA DAMAGE RESPONSE IN EARLY BREAST CANCER: A PHASE III COHORT IN THE PHOBOS STUDY (https://doi.org/10.3390/cancers16152628)
 
 Eriseld Krasniqi*, Cristiana Ercolani*, Anna Di Benedetto, Francesca Sofia Di Lisa, Lorena Filomeno‡, Teresa Arcuri, Claudio Botti, Fabio Pelle, Flavia Cavicchi, Sonia Cappelli, Maddalena Barba, Laura Pizzuti, Marcello Maugeri-Saccà, Luca Moscetti, Antonino Grassadonia, Nicola Tinari, Giuseppe Sanguineti, Silvia Takanen, Davide Fragnito‡, Irene Terrenato, Simonetta Buglioni, Letizia Perracchio, Agnese La Torre, Ruggero De Maria, Matteo Pallocca, Gennaro Ciliberto, Francesco Giotta†, Patrizia Vici†
 
